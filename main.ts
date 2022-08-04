@@ -16,4 +16,4 @@ let mySprite = sprites.create(img`
     . . . . . . . 7 7 . . . . . . . 
     . . . . . . . . . . . . . . . . 
     `, SpriteKind.Player)
-scene.setBackgroundColor(9)
+music.baDing.play()

@@ -15,4 +15,4 @@
 . . . . . . 7 7 7 7 . . . . . . 
 . . . . . . . 7 7 . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"lzLY`1@y.O{f.]u.nDzd"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="%r8_g}jUN_Y-qU/?T5.f"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="gamesetbackgroundcolor" id=")G(KCtxg2g5|p8hV5T$)"><value name="color"><shadow type="colorindexpicker" id="/NS!.!c2m}5^$xbE5}:E"><field name="index">9</field></shadow></value></block></next></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"lzLY`1@y.O{f.]u.nDzd"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="%r8_g}jUN_Y-qU/?T5.f"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="mixer_play_sound" id="DRthTfT|iZ}%I]DHsKsN"><field name="sound">music.baDing</field></block></next></block></statement></block></xml>
